@@ -15,6 +15,16 @@
     "lon":-134.406794,
     "population":31275
   },
+  
+  {
+    "abbrev":"TE",
+    "parentState":"Alaska",
+    "capital":"Testa",
+    "lat":67.939740,
+    "lon":-157.016794,
+    "population":31275
+  },
+  
   {
     "abbrev":"AZ",
     "parentState":"Arizona",
@@ -36,7 +46,7 @@
     "parentState":"California",
     "capital":"Sacramento",
     "lat":38.579065,
-    "lon":-121.491014,
+    "lon":-121.491014,AK
     "population":466488
   },
   {
