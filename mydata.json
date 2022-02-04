@@ -8,7 +8,7 @@
     "population":205764
   },
   {
-    "abbrev":"TK",
+    "abbrev":"AK",
     "parentState":"Alaska",
     "capital":"Juneau",
     "lat":58.299740,
@@ -16,14 +16,6 @@
     "population":31275
   },
   
-  {
-    "abbrev":"TE",
-    "parentState":"Alaska",
-    "capital":"Testa",
-    "lat":67.939740,
-    "lon":-157.016794,
-    "population":31275
-  },
   
   {
     "abbrev":"AZ",
