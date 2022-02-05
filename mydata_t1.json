@@ -401,5 +401,13 @@
     "lat":43.444815,
     "lon":-107.991544,
     "population":59466
+  },
+  {
+    "abbrev":"WG",
+    "parentState":"Wingos",
+    "capital":"Wintar",
+    "lat":65.574815,
+    "lon":-151.251544,
+    "population":100000
   }
 ]
